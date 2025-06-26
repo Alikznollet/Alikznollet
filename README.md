@@ -10,6 +10,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" **alt="Haskell" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" **alt="Godot" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40"/>
     <img width="12" />
   </div>
 </div>
